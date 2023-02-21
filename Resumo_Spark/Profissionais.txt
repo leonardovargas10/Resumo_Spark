@@ -1,0 +1,11 @@
+Carlos,oncologista,hospital
+Ana,dentista,clinica
+Fernanda,enfermeira,hospital
+Sandra,pediatra,clinica
+Fatima,dentista,clinica
+Gilmar,cardiologista,hospital
+Fabio,pediatra,clinica
+Hilton,enfermeiro,clinica
+Daiane,dentista,clinica
+Paulo,farmaceutico,clinica
+Gilberto,pediatra,hospital

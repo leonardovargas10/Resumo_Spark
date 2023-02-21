@@ -1,0 +1,11 @@
+Carlos,10000
+Ana,7000
+Fernanda,5000
+Sandra,6000
+Fatima,8500
+Gilmar,9000
+Fabio,12000
+Hilton,5000
+Jefferson,8000
+Antonio,3000
+Joaquim,5000

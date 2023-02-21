@@ -1,0 +1,29 @@
+# Variáveis para JDK
+JAVA_HOME = C:\Java\jdk-11.0.3
+PATH = C:\Java\jdk-11.0.3\bin
+
+# Variáveis para Spark
+SPARK_HOME = C:\spark
+PATH = C:\spark\bin
+PYSPARK_PYTHON = python3
+PYSPARK_DRIVER_PYTHON = jupyter
+PYSPARK_DRIVER_PYTHON_OPTS = notebook
+
+#Criação da pasta do hadoop
+1) Criação do diretório: C:\Hadoop\bin
+2) Copiar o programa winutils para o diretório C:\Hadoop\bin
+3) Criação de nova variável de ambiente HADOOP_HOME, apontando para C:\Hadoop
+    HADOOP_HOME = C:\Hadoop
+4) Acrescenta o caminho de acesso ao Hadoop na variável de ambiente PATH
+    PATH = C:\Hadoop\bin
+
+
+# Instalação do Winutils para executr o Hadoop no Windows - Windows 64 bits:
+
+https://github.com/cdarlint/winutils
+
+
+# Realizando a compatibilização e permissão de acesso do Hadoop com o Winutils
+
+1) Criação de um diretório C:\tmp\hive
+2) Permitindo o acesso via prompt do windows: C:\Hadoop\bin\winutils.exe chmod -R 777 C:\tmp\hive
